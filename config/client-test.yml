@@ -1,5 +1,5 @@
 data:
-  env:client-tests
+  env: client-tests
   user:
-    username:zfd
-    password:1433223
+    username: zfd
+    password: 1433223

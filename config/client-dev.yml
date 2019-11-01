@@ -1,5 +1,5 @@
 data:
-  env:client-dev
+  env: client-dev
   user:
-    username:zfd
-    password:1433223
+    username: zfd
+    password: 1433223
